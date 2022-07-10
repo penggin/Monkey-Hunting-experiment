@@ -53,7 +53,7 @@ $$
 
 이것을 그래프로 나타낸다면 아래의 그림과 같이 나타낼 수 있다.
 
-![Untitled](%E1%84%86%E1%85%AE%E1%86%AF%E1%84%85%E1%85%B5%20%E1%84%89%E1%85%A6%E1%84%90%E1%85%B3%E1%86%A8%20cb06c89de38d48538f5c8dfd50c94887/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/77449586/178145300-172287ad-41bc-408e-8c92-f286d7a11fa3.png)
 
 이때, 일정한 가속도 $a$ 로 시간 $t$ 동안 운동한 물체의 변위 $s$ 는 **시간 - 속도 그래프** 에서 색칠한 부분의 넓이로 나타낼 수 있다.
 
@@ -69,7 +69,8 @@ $$
 
 ### 준비는 모두 끝났다. 이제 본격적으로 증명해보자!
 
-![Untitled](%E1%84%86%E1%85%AE%E1%86%AF%E1%84%85%E1%85%B5%20%E1%84%89%E1%85%A6%E1%84%90%E1%85%B3%E1%86%A8%20cb06c89de38d48538f5c8dfd50c94887/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/77449586/178145319-883f1f9c-0a33-4307-b468-e9eb77812e05.png)
+
 
 (그림판으로 그린 아주 멋진 그림이다.)
 
@@ -205,7 +206,8 @@ $$
 
 이때, 나는 각도를 얻기 위한 방법으로 **삼각함수** 를 사용하였다.
 
-![Untitled](%E1%84%86%E1%85%AE%E1%86%AF%E1%84%85%E1%85%B5%20%E1%84%89%E1%85%A6%E1%84%90%E1%85%B3%E1%86%A8%20cb06c89de38d48538f5c8dfd50c94887/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/77449586/178145313-ad884c1a-d5c9-4f55-a47b-89313da8c0dd.png)
+
 
 우리가 미적분을 배우기 이전까지 다루는 삼각함수는 $\sin$,  $\cos$, $\tan$ 3가지가 있으며, 각각 `b/c`,
 
@@ -246,11 +248,11 @@ double ySpeed = Speed * Sin(Atan(b/a));
 
 **작동 모습**
 
-![asdf6.gif](%E1%84%86%E1%85%AE%E1%86%AF%E1%84%85%E1%85%B5%20%E1%84%89%E1%85%A6%E1%84%90%E1%85%B3%E1%86%A8%20cb06c89de38d48538f5c8dfd50c94887/asdf6.gif)
+![asdf6](https://user-images.githubusercontent.com/77449586/178145331-1f057f4f-5138-492c-80cb-3a036c2c2ca5.gif)
 
 거리 최대, 속도 30일때
 
-![asdf7.gif](%E1%84%86%E1%85%AE%E1%86%AF%E1%84%85%E1%85%B5%20%E1%84%89%E1%85%A6%E1%84%90%E1%85%B3%E1%86%A8%20cb06c89de38d48538f5c8dfd50c94887/asdf7.gif)
+![asdf7](https://user-images.githubusercontent.com/77449586/178145335-4c4ea39d-eb43-40c8-a3ac-581f5a4522ff.gif)
 
 거리 최대, 속도 70일때
 
